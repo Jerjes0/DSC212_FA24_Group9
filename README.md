@@ -3,10 +3,10 @@
 Euler's and Runge-Kutta Method for solving the SIER Model equations
 
 ## Members
-- Zida Jin: [Zida Jin](A69031541)
-- Member 2: [Conan Minihan](A69031541)
-- Member 3: [Tamar Schaap](A69031541)
-- Member 4: [Jerjes Aguirre](A69031541)
+- A0000000: [Zida Jin]()
+- A0000000: [Conan Minihan]()
+- A0000000: [Tamar Schaap]()
+- A69031541: [Jerjes Aguirre](https://github.com/Jerjes0)
 
 ## Description
 This project aims to [briefly describe the project's goal and objectives]. It is a collaborative effort by the members listed above to [achieve a specific outcome or solve a problem].
