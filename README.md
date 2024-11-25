@@ -4,7 +4,7 @@ Euler's and Runge-Kutta Method for solving the SIER Model equations
 
 ## Members
 - A0000000: [Zida Jin]()
-- A0000000: [Conan Minihan]()
+- A09747831: [Conan Minihan](https://github.com/ConanMinihan)
 - A0000000: [Tamar Schaap]()
 - A69031541: [Jerjes Aguirre](https://github.com/Jerjes0)
 
