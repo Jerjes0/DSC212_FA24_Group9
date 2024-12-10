@@ -27,6 +27,9 @@ To install and run this project, follow these steps:
 - pip package manager
 - numpy
 - scipy
+- pandas
+- matplotlib
+- sklearn
 
 ## Expected results
 
