@@ -3,9 +3,9 @@
 Euler's and Runge-Kutta Method for solving the SIER Model equations
 
 ## Members
-- A0000000: [Zida Jin]()
+- A69031744: [Zida Jin]()
 - A09747831: [Conan Minihan](https://github.com/ConanMinihan)
-- A0000000: [Tamar Schaap]()
+- A69031567: [Tamar Schaap]()
 - A69031541: [Jerjes Aguirre](https://github.com/Jerjes0)
 
 ## Description
@@ -28,3 +28,25 @@ To install and run this project, follow these steps:
 - numpy
 - scipy
 
+## Expected results
+
+### Euler's Method Result
+![Euler's Method Result](notebooks/fig1.png)
+
+### RK45's Method Result
+![RK45's Method Result](notebooks/fig2.png)
+
+### Stability test
+![Stability test](notebooks/fig3.png)
+
+### Stiffness test
+![Stiffness test](notebooks/fig4.png)
+
+### Long simulation test
+![Long simulation test](notebooks/fig5.png)
+
+### California data fit
+![California data fit](notebooks/fig7.png)
+
+### US (WHO) data fit
+![ US (WHO) data fit](notebooks/fig8.png)
