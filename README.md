@@ -34,22 +34,22 @@ To install and run this project, follow these steps:
 ## Expected results
 
 ### Euler's Method Result
-![Euler's Method Result](notebooks/fig1.png)
+![Euler's Method Result](figs/fig1.png)
 
 ### RK45's Method Result
-![RK45's Method Result](notebooks/fig2.png)
+![RK45's Method Result](figs/fig2.png)
 
 ### Stability test
-![Stability test](notebooks/fig3.png)
+![Stability test](figs/fig3.png)
 
 ### Stiffness test
-![Stiffness test](notebooks/fig4.png)
+![Stiffness test](figs/fig4.png)
 
 ### Long simulation test
-![Long simulation test](notebooks/fig5.png)
+![Long simulation test](figs/fig5.png)
 
 ### California data fit
-![California data fit](notebooks/fig7.png)
+![California data fit](figs/fig7.png)
 
 ### US (WHO) data fit
-![ US (WHO) data fit](notebooks/fig8.png)
+![ US (WHO) data fit](figs/fig8.png)
