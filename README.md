@@ -20,7 +20,8 @@ To install and run this project, follow these steps:
 4. Activate the virtual environment: `source numerical_env/bin/activate` (on Linux/Mac) or `myenv\Scripts\activate` (on Windows)
 5. Install dependencies: `pip install -r requirements.txt`
 6. Add the virtual environment as a kernel in your Jupyter notebook or IDE using ipykernel: `python -m ipykernel install --user --name=numerical_env --display-name "numerical_env"`
-7. Run the notebook: `notebooks/euler_rk4_method.ipynb`
+7. Select the kernel in the right upper corner; Select Another Kernel, Python Environments... numerical_env
+8. Run the notebook: `notebooks/euler_rk4_method.ipynb`
 
 ## Requirements
 - Python 3.8 or higher
